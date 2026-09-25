@@ -1,0 +1,15 @@
+{
+	"name": "azureadf0123",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d0369711-cc48-4f67-87c5-855f2b08afe1",
+		"tenantId": "8361e048-f6e9-464e-9e09-6027e0d33101"
+	}
+}
